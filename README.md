@@ -7,7 +7,7 @@ Data Science Portfolio : Data has better idea
 * Using WampServer, which is a web development environment which allows you to create web applications. It installs local server environment on your windows system, Local Server being setup.
 * Using Text editors like Sublime (preferred) / Visula Studio, Code workspace is setup.
 * Visualize the Data by combining the capabilities of DOM using HTML, JS & CSS as Coding Interface.
-![] (https://github.com/pradeepcho-exe/Pradeep_Portfolio/blob/main/Images/FinalViz.png)
+![](https://github.com/pradeepcho-exe/Pradeep_Portfolio/blob/main/Images/FinalViz.png)
 
 # [Project 2 : Accident Data Analysis]
 * Using R, I Analyze the Accident Data for US
@@ -19,9 +19,9 @@ We’ll use the US accident data to identify the factors that contribute to car 
 4)	Will the car accident prediction model be useful to guide the driving in what conditions?
 5)	Any findings from the car accident prediction modeling.
 
-![] (https://github.com/pradeepcho-exe/Pradeep_Portfolio/blob/main/Images/2.peakhours.png)
+![](https://github.com/pradeepcho-exe/Pradeep_Portfolio/blob/main/Images/2.peakhours.png)
 
-![] (https://github.com/pradeepcho-exe/Pradeep_Portfolio/blob/main/Images/7.windcondition.png)
+![](https://github.com/pradeepcho-exe/Pradeep_Portfolio/blob/main/Images/7.windcondition.png)
 
-![] (https://github.com/pradeepcho-exe/Pradeep_Portfolio/blob/main/Images/SummaryOfAllModels.png)
+![](https://github.com/pradeepcho-exe/Pradeep_Portfolio/blob/main/Images/SummaryOfAllModels.png)
 
