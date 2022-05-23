@@ -1,5 +1,5 @@
 # Pradeep Kumar Chokkahalli Prabhakar
-# Data Science Enthusiast, Data Analyst
+## Data Science Enthusiast, Data Analyst
 Data Science Portfolio : Data has better idea
 
 # [Project 1 : D3 Visualization using HTML:Project Overview](https://github.com/pradeepcho-exe/D3-Visualization)
