@@ -21,11 +21,14 @@ We’ll use the US accident data to identify the factors that contribute to car 
 5. Any findings from the car accident prediction modeling.
 
 * Peak Hour Traffic
+
 ![](/Images/2.peakhours.png)
 
 * Wind Direction Category
+
 ![](/Images/7.windcondition.png)
 
 * Summary of All the Models
+
 ![](/Images/SummaryOfAllModels.png)
 
