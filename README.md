@@ -1,7 +1,7 @@
 # Pradeep_Portfolio
 Data Science Portfolio : Data has better idea
 
-# [Project 1 : D3 Visualization using HTML:Project Overview] (https://github.com/pradeepcho-exe/D3-Visualization)
+# [Project 1 : D3 Visualization using HTML:Project Overview](https://github.com/pradeepcho-exe/D3-Visualization)
 
 * Using HTML, CSS, JavaScript combining with the characteristics of DOM (Data Object Model), Creating Web page based Visualizations.
 * Using WampServer, which is a web development environment which allows you to create web applications. It installs local server environment on your windows system, Local Server being setup.
