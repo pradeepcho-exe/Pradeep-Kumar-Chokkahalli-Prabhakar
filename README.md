@@ -1,4 +1,3 @@
-# Pradeep Kumar Chokkahalli Prabhakar
 ## Data Science Enthusiast, Data Analyst
 Data Science Portfolio : Data has better idea
 
